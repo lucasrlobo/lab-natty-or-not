@@ -29,7 +29,7 @@ Projeto DIO Natural ou Fake Natty?
 Chat GPT, Microsoft Copilot, Gemini, entre outras.
 
 ## 🧐 Processo de Criação
-Criei o fork, clonei o repositório no meu computador (git clone #link), fiz a alteração do README.mk diretamente no diretório e joguei de volta para o repositório (git push).
+Criei o fork, clonei o repositório no meu computador (git clone #link), fiz a alteração do README.md diretamente no diretório, conclui as alterações (git add .), verifiquei no log (git log) e joguei de volta para o repositório (git push origin main).
 
 ## 🚀 Resultados
 Inseri o link do projeto no meu GitHub na entrega do projeto.
