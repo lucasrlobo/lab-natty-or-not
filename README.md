@@ -23,19 +23,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto DIO Natural ou Fake Natty?
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT, Microsoft Copilot, Gemini, entre outras.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei o fork, clonei o repositório no meu computador (git clone #link), fiz a alteração do README.mk diretamente no diretório e joguei de volta para o repositório (git push).
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Inseri o link do projeto no meu GitHub na entrega do projeto.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Venilton é um fake Natty, com certeza kkk.
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lobo-a32062144/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasrlobo)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511962017752)
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lucas.lobo92@hotmail.com)
+
+## Apenas completando o desafio!
 ```
 
 ### Exemplos e Insigths
